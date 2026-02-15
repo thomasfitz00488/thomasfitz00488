@@ -52,10 +52,9 @@
 
 <div align="center">
   <a href="https://github.com/thomasfitz00488/Volunteera">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=Volunteera&theme=tokyonight" alt="Project 1" />
-  </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thomasfitz00488&repo=Volunteera&theme=tokyonight" alt="Project" />  </a>
   <a href="https://github.com/thomasfitz00488/AISnake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=AISnake&theme=tokyonight" alt="Project 2" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thomasfitz00488&repo=AISnake&theme=tokyonight" alt="Project" />
   </a>
 </div>
 <!--

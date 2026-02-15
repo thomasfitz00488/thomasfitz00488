@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
 
+# Hi there, I'm Thomas Fitzsimons 👋
+
+###Software Developer | Problem Solver
+
+</div>
 <!--
 **thomasfitz00488/thomasfitz00488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -47,6 +47,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
+
+<h2>🏆 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/thomasfitz00488/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=project-1&theme=tokyonight" alt="Project 1" />
+  </a>
+  <a href="https://github.com/thomasfitz00488/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=project-2&theme=tokyonight" alt="Project 2" />
+  </a>
+</div>
 <!--
 **thomasfitz00488/thomasfitz00488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

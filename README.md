@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/thomasfitz00488/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=thomasfitz00488&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 

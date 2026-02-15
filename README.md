@@ -51,11 +51,11 @@
 <h2>🏆 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/thomasfitz00488/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=project-1&theme=tokyonight" alt="Project 1" />
+  <a href="https://github.com/thomasfitz00488/Volunteera">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=Volunteera&theme=tokyonight" alt="Project 1" />
   </a>
-  <a href="https://github.com/thomasfitz00488/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=project-2&theme=tokyonight" alt="Project 2" />
+  <a href="https://github.com/thomasfitz00488/AISnake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasfitz00488&repo=AISnake&theme=tokyonight" alt="Project 2" />
   </a>
 </div>
 <!--

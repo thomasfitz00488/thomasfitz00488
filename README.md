@@ -19,6 +19,11 @@
 </ul>
 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/thomasfitz00488/count.svg" alt="Visitor Count" />
+</div>
+
+
 <!--
 **thomasfitz00488/thomasfitz00488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

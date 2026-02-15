@@ -41,7 +41,7 @@
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomasfitz00488&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=tokyonight" alt="Profile Details" />
 </div>
 <!--
 **thomasfitz00488/thomasfitz00488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

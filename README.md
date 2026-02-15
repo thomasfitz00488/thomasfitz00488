@@ -2,19 +2,21 @@
 
 <h1> Hi there, I'm Thomas Fitzsimons 👋 </h1>
 
-<h3>Software Developer </h3> 
-
 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+learning+new+things;Innovation+driven;Open+to+opportunities;Growth+mindset;Problem+solver" alt="Typing SVG" /></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line"/>
 </div>
 <h2> About Me </h2>
 
 <ul>
+  <li>- 🎯 I am most passionate about Software Development and the Problem Solving that comes with it.</li>
+  <li>- 🌱 I also have a growing interest in Machine Learning.</li>
   <li>- 🔭 I’m currently working on my Final Year Project for my Computer Science BSc - A deployed machine learning system that finds win probabilities of cricket matches across pre-match and in-game states using structured feature engineering and stage-specific models.
   <li>- 🌱 Technologies I'm currently using across my studies: Python for ML and Deep Learning, Django + React for web development.
-  <li>- 🖥️ I also have various levels of experience using: Java, C, Pygame, Linux systems.
+  <li>- 🖥️ I also have various levels of experience using: Python, Java, C, Pygame, Linux systems.
   <li>- 📫 How to reach me: Email = tfitzsimons706@gmail.com .
+  <li>- 🎓 Graduating in July 2026</li>
   <li>- 👨‍💻 I am seeking exciting Graduate work opportunities.
 </ul>
 
@@ -44,10 +46,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomasfitz00488&theme=tokyonight" alt="Profile Details" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
-</p>
-
 <h2>🏆 Featured Projects</h2>
 
 <div align="center">
@@ -57,6 +55,10 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thomasfitz00488&repo=AISnake&theme=tokyonight" alt="Project" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
 <!--
 **thomasfitz00488/thomasfitz00488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
